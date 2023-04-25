@@ -1,0 +1,12 @@
+This is a new file that contains info about IPL teams.
+CSK
+LSG
+RR
+GT
+PBKS
+RCB
+MI
+KKR
+SRH
+DC
+
